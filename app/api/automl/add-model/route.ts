@@ -24,4 +24,4 @@ async function handle(req: NextRequest) {
 
 export const GET = handle;
 export const POST = handle;
-export const modelList: Model[] = [];
+// export const modelList: Model[] = [];
